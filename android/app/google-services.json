@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1025952869589",
+    "project_id": "flutter-notifications-9f304",
+    "storage_bucket": "flutter-notifications-9f304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025952869589:android:e2c3a5749352e4d9b3c65c",
+        "android_client_info": {
+          "package_name": "com.diegovera.push_notification_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA20532kvFvOms-5WTQkNoz0xZ2dKnoy8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
